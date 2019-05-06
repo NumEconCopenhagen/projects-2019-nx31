@@ -1,7 +1,7 @@
 # Dataproject
 ##### Created by: Michael Emcken (XHT111) and Thomas Høgh Scheel (NVC347)
 
-The data project contains a Jupyter Notebook, NX31_Data_Project.ipynb
+The dataproject contains a Jupyter Notebook, NX31_Data_Project.ipynb
 
 
 The dataproject examines the employment changes in Denmark from Q1 2009 and until Q4 2018. 
