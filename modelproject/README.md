@@ -11,4 +11,4 @@ Just make sure you have internet connetion :)
 
 Best regards, NX31.
 
-PS. Happy coding friend !
+PS. Happy coding friend!
