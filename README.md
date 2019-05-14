@@ -8,3 +8,4 @@ A short description of the files and folders:
 * [/examproject](/examproject): it contains a jupyter notebook where all the results are presented, and a README file describing the project.
 * [/modelproject](/modelproject): it contains a jupyter notebook where all the results are presented, and a README file describing the project.
 * [.gitignore](/.gitignore): A textfile specifying files and folder that will not be uploaded to github, and will not be tracked by git.  
+* [/Feedback](/Feedback): A textfile with a list of the groups each group member have given peer feedback to with links to the GitHub issues.
