@@ -1,5 +1,5 @@
 # Modelproject
-##### Created by: Michael Emcken (XHT111) and Thomas Høgh Scheel (NVC347)
+##### Created by: XHT111 and NVC347
 
 The modelproject contains a Jupyter Notebook, NX31_Model_Project.ipynb
 
