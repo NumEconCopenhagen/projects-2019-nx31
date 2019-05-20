@@ -1,7 +1,7 @@
 # Modelproject
-##### Created by: Michael Emcken (XHT111) and Thomas Høgh Scheel (NVC347)
+##### Created by: XHT111 and NVC347
 
-The modelproject contains a Jupyter Notebook, NX31_Model_Project.ipynb
+The modelproject contains a Jupyter Notebook, modelproject.ipynb
 
 In this Modelproject we will examine the overlapping generations model (OLG). We will compare two different versions of the model, starting with solving the general model and then the PAYG version. After this, we will compare the two, to see which has the highest steady state capital per capita, and compare their transisition. Lastly we will look at how the model changes, when we changes the parameters alpha, rho and n for the model
 
