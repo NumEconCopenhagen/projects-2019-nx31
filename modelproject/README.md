@@ -1,9 +1,9 @@
-# Modelproject
+# Model project
 ##### Created by: XHT111 and NVC347
 
-The modelproject contains a Jupyter Notebook, modelproject.ipynb
+The model project contains a Jupyter Notebook, modelproject.ipynb
 
-In this Modelproject we will examine the overlapping generations model (OLG). We will compare two different versions of the model, starting with solving the general model and then the PAYG version. After this, we will compare the two, to see which has the highest steady state capital per capita, and compare their transisition. Lastly we will look at how the model changes, when we changes the parameters alpha, rho and n for the model
+In this Model project we will examine the overlapping generations model (OLG model). We will compare two different versions of this model, starting with solving the general model, and then the pay-as-you-go (PAYG) version. After this, we will compare the two, to see which has the highest steady state capital per capita, and compare their transisition. Lastly we will look at how the model changes, when we changes the parameters alpha, rho and n for the model.
 
 The notebook runs, using only the packages stated in the packages section.
 Just make sure you have internet connetion :)
