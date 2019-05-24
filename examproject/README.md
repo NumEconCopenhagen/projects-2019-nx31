@@ -1,15 +1,20 @@
-# Examproject
+# Exam project
 
-#### Created by: XHT111 and NVC347
+#### Created by: nx31
 
-The examproject contains a Jupyter Notebook, examproject.ipynb 
-## WE DO NOT USE THE FOLDER examproject, but did not wan't to delete it.
+This exam project contains a Jupyter Notebook, examproject.ipynb 
 
+This notebook contains our answers for the exam questions. 
 
+The following 3 problems have been solved
+
+1. Human capital accumulation
+2. AS-AD model - We have not solved question 2.6
+3. Exchange economy
 
 Requirements:
 Just make sure you have internet connetion :)
 
-Best regards, NX31.
+Best regards, nx31.
 
 PS. Happy coding friend !
