@@ -1,5 +1,5 @@
 # Model project
-##### Created by: XHT111 and NVC347
+##### Created by: nx31
 
 The model project contains a Jupyter Notebook, modelproject.ipynb
 
@@ -8,6 +8,6 @@ In this model project we will examine the Overlapping Generations Model (OLG mod
 The notebook runs, using only the packages stated in the packages section.
 Just make sure you have internet connetion :)
 
-Best regards, NX31.
+Best regards, nx31.
 
 PS. Happy coding friend!

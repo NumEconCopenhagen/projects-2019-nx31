@@ -1,5 +1,5 @@
 # Data project
-##### Created by: XHT111 and NVC347
+##### Created by: nx31
 
 The data project contains a Jupyter Notebook, dataProject.ipynb 
 
@@ -10,6 +10,6 @@ Requirements:
 PyDST Package, can be downloaded by writing - pip install pydst.
 Just make sure you have internet connetion :)
 
-Best regards, NX31.
+Best regards, nx31.
 
 PS. Happy coding friend !
